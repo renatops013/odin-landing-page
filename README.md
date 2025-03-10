@@ -1,0 +1,1 @@
+This is an exercise project from the Odin Project initiative. It aims to create a landing page from scratch to test the knowledge acquired so far in the course. 
