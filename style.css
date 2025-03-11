@@ -3,3 +3,10 @@
     color: white;
     font-family: 'Roboto';
     }
+
+img{
+width: 240px;
+}
+.header{
+    background-color: aliceblue;
+}
