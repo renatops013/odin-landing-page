@@ -3,7 +3,6 @@
     color: #f9faf8;
     font-family: 'Roboto';
     font-size: 48px ;
-
     }
 
 img{
@@ -13,12 +12,18 @@ width: 240px;
     background-color: #1f2937;
     font-size: 24px;
     color: #f9faf8;
+    display: flex;
+    align-items: center;
 }
 li{
     color: #f9faf8;
     font-size: 18px;
+    
+    
 }
-
+.logo{
+    
+}
 a{
     color: #f9faf8;
     text-decoration: none; 
