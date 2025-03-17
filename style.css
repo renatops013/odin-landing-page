@@ -77,8 +77,18 @@ a{
     
     padding: 100px;
 }
-.section4{
-    background-color: white;
-    padding: 100px;
-    
+.autor{
+    display: flex;
+    justify-content: end;
 }
+.section4{
+    background-color: #3882f6;
+    color: #e5e7eb;
+  border: 100px solid white;
+  padding: 20px;
+ 
+
+    display: flex;
+    justify-content: center;
+}
+
