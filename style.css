@@ -21,7 +21,7 @@
     color: #e5e7eb;
     font-size: 18px;
 }
-img{
+#imgsec1{
 width: 240px;
 }
 .header{
@@ -58,4 +58,27 @@ a{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+.figures {
+    align-items: baseline;
+    display: flex;
+   
+}
+.imgsec2{
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+.section3{
+    background-color: #e5e7eb;
+    
+    padding: 100px;
+}
+.section4{
+    background-color: white;
+    padding: 100px;
+    
 }
